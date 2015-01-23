@@ -7,16 +7,16 @@ CCSM4;;University of Miami - RSMAS
 CESM1-CAM5;;University of Miami - RSMAS
 CESM1-BGC;;Community Earth System Model Contributors
 CMCC-CM;;Centro Euro-Mediterraneo per I Cambiamenti Climatici
-CNRM-CM5;;Centre National de Recherches Meteorologiques /Centre Europeen de Recherche et Formation Avancees en Calcul Scientifique
+CNRM-CM5;;Centre National de Recherches Meteorologiques / Centre Europeen de Recherche et Formation Avancees en Calcul Scientifique
 CSIRO-Mk3-6-0;;Commonwealth Scientific and Industrial Research Organization in collaboration with Queensland Climate Change Centre of Excellence
 EC-EARTH;;EC-EARTH consortium
-FGOALS-g2;;LASG, Institute of Atmospheric Physics, Chinese Academy of Sciences and CESS,Tsinghua University
+FGOALS-g2;;LASG, Institute of Atmospheric Physics, Chinese Academy of Sciences and CESS, Tsinghua University
 FIO-ESM;;The First Institute of Oceanography, SOA, China
 GFDL-ESM2M;;NOAA Geophysical Fluid Dynamics Laboratory
 GFDL-ESM2G;;NOAA Geophysical Fluid Dynamics Laboratory
 GFDL-CM3;;NOAA Geophysical Fluid Dynamics Laboratory
 GISS-E2-H;;NASA Goddard Institute for Space Studies
-HadGEM2-AO;;National Institute of Meteorological Research/Korea Meteorological Administration
+HadGEM2-AO;;National Institute of Meteorological Research / Korea Meteorological Administration
 HadGEM2-ES;;Met Office Hadley Centre
 HadGEM2-CC;;Met Office Hadley Centre
 HadGEM2-ES365;;Met Office Hadley Centre, where 360-day outputs were interpolated to 365-day outputs before the downscaling.
